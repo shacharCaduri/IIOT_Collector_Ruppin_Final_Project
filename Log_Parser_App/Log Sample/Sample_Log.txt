@@ -1,0 +1,18 @@
+Date:Wednesday, September 30, 2020
+Time:10:27:15 PM
+Company:Segment Ltd
+Computer Name:Computer 01
+VDD Number:123456789
+VDD Status:NOT RELEASED VERSION
+Run Mode:FULL
+Selected Part Number:2030-1020
+Entered Serial Number:729102457812
+Operator Name:Israel Israeli
+Operator Comment:Remarks placeholder
+Ending Time:12:06:03 AM
+Execution Time:5927.403892 seconds
+Result:Passed
+ Test01 - Power ValidPassed
+ Test02 - Network ParametersPassed
+ Test03 - Startup TestsPassed
+ Test04 - Signals BehaviourPassed

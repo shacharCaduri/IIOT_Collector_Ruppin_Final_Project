@@ -1,0 +1,20 @@
+{
+	"Steps": [
+		{
+			"Type": "SelectSingleNode",
+			"Expression": "//body",
+			"Filter": "x=>x.NodeType == HtmlNodeType.Element&& x.ParentNode.Name=='body'",
+			"Destination": "List<HtmlNode> List_Of_Nodes"
+		},
+		{
+			"Type": "RemoveAll",
+			"Expression": "x => x.Name == 'br'",
+			"Source": "List_Of_Nodes"
+		},
+		{
+				"Type": "Get_ItemToDataTable",
+				"Expression": 
+		}
+		
+	]
+}

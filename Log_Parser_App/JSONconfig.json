@@ -1,0 +1,52 @@
+[
+{
+  "nodeType": "html",
+  "tagName": "table",
+  "tagValue": null
+},
+{
+  "nodeType": "html",
+  "tagName": "h3",
+  "tagValue": "Test"
+},
+{
+  "nodeType": "html",
+  "tagName": "h5",
+  "tagValue": "Test"
+},
+{
+  "nodeType": "html",
+  "tagName": "a",
+  "tagValue": null
+},
+{
+  "nodeType": "html",
+  "tagName": "b",
+  "tagValue": null
+},
+{
+  "nodeType": "html",
+  "tagName": "i",
+  "tagValue": null
+},
+{
+  "nodeType": "html",
+  "tagName": "center",
+  "tagValue": null
+},
+{
+  "nodeType": "html",
+  "tagName": "font",
+  "tagValue": null
+},
+{
+  "nodeType": "html",
+  "tagName": "span",
+  "tagValue": null
+},
+{
+  "nodeType": "file",
+  "tagName": "fileLocation",
+  "tagValue": "D:\\Final Project\\IIOT_Collector\\LogsCSV"
+}
+]
